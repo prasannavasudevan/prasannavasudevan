@@ -8,7 +8,7 @@ I'm a Full Stack / MERN Stack Developer. I am a Tech Enthusiast, a Life long Lea
 
 📨 You can contact me at v.prasanna816@gmail.com
 
-🧠 I'm learning web designing.
+🧠 I'm learning web development
 
 🛠  Languages and Tools :
 React  UI  CSS  HTML  JavaScript  PHP  NodeJS
