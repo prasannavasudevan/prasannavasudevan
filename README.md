@@ -1,4 +1,4 @@
-
+![github-header-image](https://github.com/prasannavasudevan/prasanna-vasudevan/assets/32860910/fe7906f1-9eec-41cb-a5c3-108eeb4e04c2)
 
 <h1 align="center">Hi 👋, I'm Prasanna Vasudevan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
