@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasanna Vasudevan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prsannavasudevan&label=Profile%20views&color=0e75b6&style=flat" alt="prsannavasudevan" /> </p>
+<p align="left"> ![image](https://github.com/prasannavasudevan/prasanna-vasudevan/assets/32860910/67c4dc77-d33b-454b-8067-1e31167d3c71)
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prsannavasudevan" alt="prsannavasudevan" /></a> </p>
 
