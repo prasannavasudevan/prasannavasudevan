@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasanna Vasudevan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img src="https://github.com/prasannavasudevan/prasanna-vasudevan/assets/32860910/c1d9a35e-dc8b-4dab-be92-01cacedbb11f"></img>
+<img align="left" alt="coding" width="400" src="https://github.com/prasannavasudevan/prasanna-vasudevan/assets/32860910/c1d9a35e-dc8b-4dab-be92-01cacedbb11f"></img>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
